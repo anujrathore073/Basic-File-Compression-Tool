@@ -6,6 +6,11 @@
 This webapp uses Huffman Coding for Text Compression and De-compression.
 Made with JavaScript, HTML5 and CSS3.
 Live Demo:👇
+
+
+https://github.com/user-attachments/assets/b412aa62-1782-4bc4-9883-7c43369b7282
+
+
 ## About this application:
 
 * This website performs Lossless data compression and decompression of text(.txt) files using Huffman Algorithm.
@@ -13,3 +18,4 @@ Live Demo:👇
 * A Huffman code is a tree, built bottom up, starting with the list of different characters appearing in a text and their frequency. 
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML and CSS ) and interactive (with JavaScript ) .
+  
