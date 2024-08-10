@@ -1,10 +1,11 @@
-<!-- Author : Anuj Rathore-->
+ 
 <div align ="center">
 <h1> Text File Compressor De-compressor Web App</h1>
+  Author : Anuj Rathore
 </div>
-- This webapp uses Huffman Coding for Text Compression and De-compression.
-- Made with JavaScript, HTML5 and CSS3.
-- Live Demo:👇
+This webapp uses Huffman Coding for Text Compression and De-compression.
+Made with JavaScript, HTML5 and CSS3.
+Live Demo:👇
 ## About this application:
 
 * This website performs Lossless data compression and decompression of text(.txt) files using Huffman Algorithm.
